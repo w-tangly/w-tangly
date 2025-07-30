@@ -6,7 +6,7 @@
 
 <div>
   <img justify="center" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=w-tangly&show_icons=true&theme=radical" height="180">
-  <img justify="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" height="180">
+  <img justify="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" min-height="180">
 </div>
 
 <div style="display: inline_block"><br>
