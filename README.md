@@ -4,7 +4,7 @@
 - 🌱 Irei começar a estudar: React
 - 😄 Pronomes: Ele/Dele
 
-<img align="center" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=w-tangly&show_icons=true&theme=radical">
+<img justify="center" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=w-tangly&show_icons=true&theme=radical">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
