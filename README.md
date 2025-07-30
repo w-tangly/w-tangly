@@ -5,8 +5,8 @@
 - 😄 Pronomes: Ele/Dele
 
 <div>
-  <img justify="center" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=w-tangly&show_icons=true&theme=radical" height="50">
-  <img justify="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" height="50">
+  <img justify="center" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=w-tangly&show_icons=true&theme=radical" height="200">
+  <img justify="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" height="200">
 </div>
 
 <div style="display: inline_block"><br>
